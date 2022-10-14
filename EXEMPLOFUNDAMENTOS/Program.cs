@@ -2,19 +2,26 @@
 //Atalho para comentar Ctrl + K + C
 // Cast - Casting Conversões de Variáveis
 
+Calculadora calc = new Calculadora();
+
+calc.Somar(10, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15, 45);
+calc.Dividir(2, 2);
+
+
 // Operador lógico NOT
-bool choveu = false;
-bool estaTarde = false;
+// bool choveu = false;
+// bool estaTarde = false;
 
-if (!choveu && !estaTarde)
-{
-    Console.WriteLine("Vou pedalar");
-}
-else
-{
- Console.WriteLine("Vou pedalar outro dia");
-}
-
+// if (!choveu && !estaTarde)
+// {
+//     Console.WriteLine("Vou pedalar");
+// }
+// else
+// {
+//  Console.WriteLine("Vou pedalar outro dia");
+// }
 
 
 // Operador lógico AND
