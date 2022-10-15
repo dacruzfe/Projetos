@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj": {}
+    "C:\\Users\\Felipe\\Documents\\GitHub\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj": {
+    "C:\\Users\\Felipe\\Documents\\GitHub\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\GitHub\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj",
         "projectName": "EXEMPLOFUNDAMENTOS",
-        "projectPath": "C:\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\GitHub\\Projetos\\EXEMPLOFUNDAMENTOS\\EXEMPLOFUNDAMENTOS.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EXEMPLOFUNDAMENTOS\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\GitHub\\Projetos\\EXEMPLOFUNDAMENTOS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
