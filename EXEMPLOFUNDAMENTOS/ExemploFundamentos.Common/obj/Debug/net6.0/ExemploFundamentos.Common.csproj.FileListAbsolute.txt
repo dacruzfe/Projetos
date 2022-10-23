@@ -1,0 +1,12 @@
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+c:\Users\Felipe\Documents\GitHub\Projetos\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
