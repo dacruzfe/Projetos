@@ -30,7 +30,7 @@ namespace DesafioFundamentos.Models
 
                 int horas = Convert.ToInt32(Console.ReadLine());
                 
-                decimal valorTotal = precoInicial + precoPorHora * horas;
+                decimal valorTotal = (precoInicial + precoPorHora) * horas;
 
                 veiculos.Remove(placa);
 
