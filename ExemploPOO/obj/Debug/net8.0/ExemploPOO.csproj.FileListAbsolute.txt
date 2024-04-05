@@ -1,0 +1,15 @@
+D:\dio\Projetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+D:\dio\Projetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+D:\dio\Projetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+D:\dio\Projetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+D:\dio\Projetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+D:\dio\Projetos\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll

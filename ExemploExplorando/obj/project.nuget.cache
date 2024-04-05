@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QqPOsv8MQpQl1KRGASvi1ChGbd7RvDafyJoidYgDJuxBK2lDGNVTKZW4bUQvtSYBPj1+GH3T67+xvYqw76vsnQ==",
+  "dgSpecHash": "iMDkDL+nHA+UrfM1NMSM8EO64v9sxL+nyaKxm9av8RnbTnV0S4lHlS3H2JPWL0/Q8B5XIPQfnUvxAbryVU5Alg==",
   "success": true,
-  "projectFilePath": "D:\\dio\\projetos\\ExemploExplorando\\ExemploExplorando.csproj",
+  "projectFilePath": "D:\\dio\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512"
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }

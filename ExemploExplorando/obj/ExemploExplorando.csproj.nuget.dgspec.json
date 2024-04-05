@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dio\\projetos\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "D:\\dio\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "D:\\dio\\projetos\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "D:\\dio\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dio\\projetos\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "D:\\dio\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "D:\\dio\\projetos\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectPath": "D:\\dio\\Projetos\\ExemploExplorando\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "D:\\dio\\projetos\\ExemploExplorando\\obj\\",
+        "outputPath": "D:\\dio\\Projetos\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
